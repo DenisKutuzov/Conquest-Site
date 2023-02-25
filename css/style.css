@@ -392,7 +392,7 @@ SECTION PROMO
 .promo__prado::before {
   content: "";
   position: absolute;
-  background-image: url(/img/Ellipse.svg);
+  background-image: url(img/Ellipse.svg);
   width: 496px;
   height: 944.01px;
   top: -86px;
@@ -427,7 +427,7 @@ SECTION PROMO
 .promo__pirce::before {
   position: absolute;
   content: "";
-  background-image: url(/img/ruble.svg);
+  background-image: url(img/ruble.svg);
   top: 3px;
   left: 66px;
   width: 9.6px;
@@ -575,7 +575,7 @@ SECTION MODELS
 .card-models__price::after {
   position: absolute;
   content: "";
-  background-image: url(/img/ruble.svg);
+  background-image: url(img/ruble.svg);
   top: 1px;
   left: 47px;
   width: 9.6px;
@@ -740,7 +740,7 @@ SECTION CATALOG*******
 .slaider-catalog__btn {
   width: 7px;
   height: 13px;
-  background: url(/img/arrow_left.svg) no-repeat;
+  background: url(img/arrow_left.svg) no-repeat;
 }
 .slaider-catalog__btn:hover {
   opacity: 0.6;
@@ -748,7 +748,7 @@ SECTION CATALOG*******
 .slaider-catalog__btn-reverse {
   width: 7px;
   height: 13px;
-  background: url(/img/arrow_right.svg) no-repeat;
+  background: url(img/arrow_right.svg) no-repeat;
 }
 .slaider-catalog__btn-reverse:hover {
   opacity: 0.6;
